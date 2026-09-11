@@ -1,0 +1,11 @@
+{
+  "name": "sendcloud-mcp",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "@netlify/functions": "latest"
+  }
+}
